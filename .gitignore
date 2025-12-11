@@ -1,0 +1,9 @@
+# Excel specific gitignore
+*.xls
+*.xlsx
+*.xlsm
+*.xltx
+*.xltm
+*.xlam
+*.tmp
+~$*
